@@ -1,0 +1,7 @@
+matplotlib==3.7.1
+numpy==1.21.0
+scikit_learn==1.2.2
+tensorflow==2.12.0
+tensorflow_intel==2.11.0
+tf_slim==1.1.0
+torch==1.9.0
